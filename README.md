@@ -3,7 +3,7 @@
 ## 📒 Descrição
 > Experimento com o uso de inteligência artificial para a finalidade de auxiliar na escrita de histórias/fanfic.
 
-Fork de um projeto do curso do "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3", este pequeno Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Fork de um projeto do curso do "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3" da DIO, este pequeno experimento te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis, principalmente pela facilitação que isso trás na produção de obras literárias, trazendo ideias e inspirações para um escritor!
 
 ## 🤖 Tecnologias Utilizadas
 > A LLaMA3 foi utilizada localmente, ou seja com um modelo já treinado e sem acesso a internet (como meio de pesquisa para o banco de dados interno). E usado a LLM Copilot da microsoft como auxilio de contexto e informações (para serem inseridas e informadas no LLaMA3 de forma manual).
