@@ -32,7 +32,7 @@ Neste projeto, foram utilizadas as seguintes tags para orientar o modelo de ling
 > Foi dado as seguintes instruções para o LLaMA3 de contexto para mundo inicial da aventura ser no Outwards (Game), e solicitado a "criação de uma história dentro dos 250 tokkens por capitulo" (pois é uma limitação da própria I.A. rodando localmente) com o contexto de alguém que acorda num sonho lúcido e acha alguns poderes em forma de cubos (sombra da quarta dimensão) e que ele vai para outwards sem memorias pessoais.
 <details>
   <summary>Capítulo 1: O Despertar (1/2)</summary>
-    
+  <BR>
   Kael acordou com um sentimento de confusão e desconforto, percebeu que algo não estava certo. Estava acordando em um sonho lúcido, onde o céu era mais escuro e as nuvens tinham uma textura estranha. Diante dele havia uma mesa com 10 cubos pequenos com cores e aspectos estranhos, parecendo ser objetos vindo de outra dimensão.
 
   Sua mente instintivamente sabia que poderia pegar dois desses cubos e ganhar algo, mas perderia algo para sempre também. Ele não sabia o que cada cubo daria ou o que perderia, era uma aposta alta e aleatória.
@@ -48,8 +48,9 @@ Neste projeto, foram utilizadas as seguintes tags para orientar o modelo de ling
 
 <details>
   <summary>Capítulo 2: O Despertar (2/2)</summary>
-    
-  Kael abriu os olhos, sentindo uma sensação de fracção em seu corpo. Ele estava caído na praia de Cierzo, perto de um homem ferido e destruição ao redor. Sua consciência começou a recobrar memórias que não eram suas, mas sim do ocupante deste corpo.
+<BR>
+  
+Kael abriu os olhos, sentindo uma sensação de fracção em seu corpo. Ele estava caído na praia de Cierzo, perto de um homem ferido e destruição ao redor. Sua consciência começou a recobrar memórias que não eram suas, mas sim do ocupante deste corpo.
 
 Ele se sentiu confuso e tentou se lembrar de algo. Mas além do sonho que havia tido, onde escolhera dois cubos e descobrira seu antigo nome, Kael, não conseguia lembrar-se de nada mais.
 
