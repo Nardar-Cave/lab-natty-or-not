@@ -13,8 +13,23 @@ Fork de um projeto do curso do "Bootcamp Nexa - Fundamentos de IA Generativa e C
 ## 🧐 Processo de Criação
 O experimento era para ver o quão dificil é para criar uma história (neste caso específico uma fanfic), e o quão bem uma LLM (Large Language Model) rodando localmente (usando Ollama no pront-de-comando) consegue criar algo conscistente (com elementos das obras escolhidas), e como ela lida ao não ter essas informações, e depois de inseridas os contextos o quão bem ela consegue gerar textos melhores.
 
+## 🏷️ Tags Utilizadas
+Neste projeto, foram utilizadas as seguintes tags para orientar o modelo de linguagem:
+
+- **Fanfic**: Esta tag indica que o conteúdo gerado deve estar no formato de uma fanfic, ou seja, uma história fictícia escrita por fãs.
+
+- **Multiverse**: Esta tag sugere que a história deve envolver múltiplos universos ou realidades.
+
+- **Reincarnation**: Esta tag indica que a história deve incluir elementos de reencarnação.
+
+- **Jump Walker (spark - poder do Magic The Gathering)**: Esta tag sugere que a história deve incorporar o conceito de "Jump Walker", um poder do jogo Magic The Gathering.
+
+- **Psionic (Poder de borderlands)**: Esta tag indica que a história deve incluir poderes psíquicos, inspirados pelo jogo Borderlands.
+
+- **Male protagonist (Kael)**: Esta tag especifica que o protagonista da história deve ser um personagem masculino chamado Kael.
+
 ## 🚀 Resultados
-> Foi dado as seguintes instruções para o LLaMA3 de contexto em forma de Tags: Fanfic, Multiverse, Reincarnation, Jump Walker (spark - poder do Magic The Gathering), Psionic (Poder de borderlands), Male protagonist (Kael). ||| Mundo inicial da aventura: Outwards (Game), e solicitado a "criação de uma história dentro dos 250 tokkens por capitulo" com o contexto de alguém que acorda num sonho lúcido e acha alguns poderes em forma de cubos (sombra da quarta dimensão) e que ele vai para outwards sem memorias pessoais.
+> Foi dado as seguintes instruções para o LLaMA3 de contexto para mundo inicial da aventura ser no Outwards (Game), e solicitado a "criação de uma história dentro dos 250 tokkens por capitulo" (pois é uma limitação da própria I.A. rodando localmente) com o contexto de alguém que acorda num sonho lúcido e acha alguns poderes em forma de cubos (sombra da quarta dimensão) e que ele vai para outwards sem memorias pessoais.
 <details>
   <summary>Capítulo 1: O Despertar (1/2)</summary>
     
