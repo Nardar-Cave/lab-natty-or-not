@@ -6,24 +6,58 @@
 Fork de um projeto do curso do "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3", este pequeno Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🤖 Tecnologias Utilizadas
-LLama3 7b (rodando localmente)
-Chatgpt 3.5 (rodando na plataforma do OpenAI)
+> A LLaMA3 foi utilizada localmente, ou seja com um modelo já treinado e sem acesso a internet (como meio de pesquisa para o banco de dados interno). E usado a LLM Copilot da microsoft como auxilio de contexto e informações (para serem inseridas e informadas no LLaMA3 de forma manual).
+- LLama3 7b:Latest
+- Copilot (Microsoft)
 
 ## 🧐 Processo de Criação
 O experimento era para ver o quão dificil é para criar uma história (neste caso específico uma fanfic), e o quão bem uma LLM (Large Language Model) rodando localmente (usando Ollama no pront-de-comando) consegue criar algo conscistente (com elementos das obras escolhidas), e como ela lida ao não ter essas informações, e depois de inseridas os contextos o quão bem ela consegue gerar textos melhores.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+> Foi dado as seguintes instruções para o LLaMA3 de contexto em forma de Tags: Fanfic, Multiverse, Reincarnation, Jump Walker (spark - poder do Magic The Gathering), Psionic (Poder de borderlands), Male protagonist (Kael). ||| Mundo inicial da aventura: Outwards (Game), e solicitado a "criação de uma história dentro dos 250 tokkens por capitulo" com o contexto de alguém que acorda num sonho lúcido e acha alguns poderes em forma de cubos (sombra da quarta dimensão) e que ele vai para outwards sem memorias pessoais.
+<details>
+  <summary>Capítulo 1: O Despertar (1/2)</summary>
+    
+  Kael acordou com um sentimento de confusão e desconforto, percebeu que algo não estava certo. Estava acordando em um sonho lúcido, onde o céu era mais escuro e as nuvens tinham uma textura estranha. Diante dele havia uma mesa com 10 cubos pequenos com cores e aspectos estranhos, parecendo ser objetos vindo de outra dimensão.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+  Sua mente instintivamente sabia que poderia pegar dois desses cubos e ganhar algo, mas perderia algo para sempre também. Ele não sabia o que cada cubo daria ou o que perderia, era uma aposta alta e aleatória.
 
-### Exemplos e Insigths
+  Dentro dos cubos, Kael escolheu dois: um que variava entre um magenta e o roxo, e outro com uma cor azul-ciano cintilante constantemente. Cada vez que ele pegava em um cubo, algo dentro de si era rasgado para fora, seguido de uma dor indescritível que vinha do fundo do seu espírito e um cansaço mental.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+  Quando pegou o último cubo, compreendeu por quê. Ao pegar o segundo e último, sentiu que estava cheio e não teria capacidade para outro "gift" daqueles (ou seu espírito seria destruído pelo poder contido neles), nem conseguiria aguentar a dor do processo.
+
+  Ao pegar o último "gift", sentiu um poder psíquico brotando dentro dele. Uma tatuagem de fractais de cor roxa se espalhou em todo seu lado direito do corpo, na forma de tentáculos. E, conforme ele ia perdendo a consciência devido à dor que irradiava do seu ser, um brilho cintilante azul-ciano em algum lugar no seu espírito também foi ativado.
+  
+  Logo sentiu como se sua alma estivesse conectada a outras dimensões. Antes de perder a consciência totalmente, toda a energia dos dois cubos foi infundida e usada. O primeiro lhe deu poderes psionics, e o segundo lhe tirou de toda a sua dor (que era representada por aquele lugar).
+</details>
+
+<details>
+  <summary>Capítulo 2: O Despertar (2/2)</summary>
+    
+  Kael abriu os olhos, sentindo uma sensação de fracção em seu corpo. Ele estava caído na praia de Cierzo, perto de um homem ferido e destruição ao redor. Sua consciência começou a recobrar memórias que não eram suas, mas sim do ocupante deste corpo.
+
+Ele se sentiu confuso e tentou se lembrar de algo. Mas além do sonho que havia tido, onde escolhera dois cubos e descobrira seu antigo nome, Kael, não conseguia lembrar-se de nada mais.
+
+As memórias dele próprias estavam ausentes, substituídas pelas memórias perfeitas de Jax. Kael sentiu uma estranheza crescente ao perceber que estava experimentando pensamentos e emoções que não eram seus.
+
+(Ele se olhou em silêncio)
+
+"O que está acontecendo? Como eu cheguei aqui? E o que é isso com a cidade de Cierzo... A arquitetura icônica, é como um sonho. Eu sei que estou no mundo do jogo Outwards. O nome da cidade, Jax... Não, é Kael. Meu nome.
+
+(Silêncio)
+
+"Eu perdi tudo. Tudo o que eu era. Todas as memórias, a minha vida anterior. Foi como se eu tivesse sido redefinido. Sinto-me como um estranho em meu próprio corpo. Eu sei apenas como fazer coisas, mas não por quê ou como.
+
+(Silêncio)
+
+"O que resta de mim? Um nome e conhecimentos não-pessoais. É o preço do cubo, o trade-off. Eu perdi tudo, exceto a minha identidade."
+
+Kael sentiu uma sensação de confusão e desorientação ao reconciliar as memórias do Jax com suas próprias memorias não-pessoais. Ele começou a raciocinar sobre como havia chegado ali e o que estava acontecendo.
+
+</details>
 
 ## Links Interessantes
 
 [Ollama - LLama3 7b (Latest)](https://ollama.com/library/llama3:latest)
 
-[OpenAI - Chatgpt 3.5](https://chatgpt.com/)
+[Copilot](https://copilot.microsoft.com/))
