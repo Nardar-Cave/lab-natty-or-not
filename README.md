@@ -60,4 +60,4 @@ Kael sentiu uma sensação de confusão e desorientação ao reconciliar as mem�
 
 [Ollama - LLama3 7b (Latest)](https://ollama.com/library/llama3:latest)
 
-[Copilot](https://copilot.microsoft.com/))
+[Copilot](https://copilot.microsoft.com/)
